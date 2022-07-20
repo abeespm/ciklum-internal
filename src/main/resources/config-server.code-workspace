@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\accounts"
+		},
+		{
+			"name": "loans",
+			"path": "..\\..\\..\\..\\loans"
+		},
+		{
+			"name": "cards",
+			"path": "..\\..\\..\\..\\cards"
+		},
+		{
+			"name": "configserver",
+			"path": "..\\..\\.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
